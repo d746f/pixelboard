@@ -51,6 +51,8 @@ Its made by using [excalidraw.com](https://excalidraw.com/) none of the componen
 
 ## Thanks and Buy me a coffee
 
-[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/whitefireshoto){ width=200px }
+<a href="https://www.buymeacoffee.com/whitefireshoto">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="200px">
+</a>
 
 
